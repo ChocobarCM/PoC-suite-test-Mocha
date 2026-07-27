@@ -7,8 +7,8 @@ Prueba de Concepto (PoC) donde exploramos la configuración y uso de Mocha como 
  - Carlos Chocobar
 
 # Material a Presentar
-Debido al tamaño de los archivos multimedia, todo el material complementario se encuentra alojado en Google Drive. Podés acceder a la carpeta completa acá:
-**[Carpeta de Drive con todo el material][https://drive.google.com/drive/folders/1TtapP6VlfNbj7N1UT9HlCFaxFWUQMSyA?usp=sharing]**
+Debido al tamaño de los archivos multimedia, todo el material complementario se encuentra alojado en Google Drive. Podés acceder a la carpeta completa acá en donde se encuentra (video/informe/presentacion/instalacion local):
+**https://drive.google.com/drive/folders/1TtapP6VlfNbj7N1UT9HlCFaxFWUQMSyA?usp=sharing**
 
 
  
